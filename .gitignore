@@ -1,0 +1,18 @@
+# Java / Maven
+target/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Segredos
+.env
+
+# Front-end (Angular)
+node_modules/
+dist/
+
+# Sistema
+.DS_Store
+*.log
